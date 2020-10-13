@@ -30,5 +30,32 @@ O projeto está em desenvolvimento na Next Level Week 3
 - React.  
 - Typescript.  
 
+## :fire: Como usar
+
+### Pré-requisitos
+  - É necessario possuir o Node.js instalado
+  - É preciso ter um gerenciador de pacotes instalado ou NPM ou Yarn
+ 
+### Passo a passo
+
+1. Fazer o clone deste repositorio :
+````
+$ git clone https://github.com/Aline595/Happy.git
+````
+
+2. Adicionar as dependências:
+````
+$ yarn install
+````
+3. Iniciar aplicação:
+````
+$ yarn start
+````
+
+4. Abrir no navegador que preferir:
+
+ http://localhost:3000  
+
+OBS: A página sempre fará reload quando atualizado os arquivos.<br />
 
 
