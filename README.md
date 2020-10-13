@@ -1,9 +1,4 @@
 
-## Index
-
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Screenshots](#-screenshots)
-- [Techs](#-techs)
 
 <h3 align="center">
   <a href="#dog-sobre-o-projeto">Sobre</a>&nbsp;|&nbsp;
