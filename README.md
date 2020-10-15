@@ -65,22 +65,22 @@ $ yarn install
 ````
 
 3. Iniciar aplicação:
-  3.1 Web  
+    ### Web  
     ````
     $ yarn start
     ````
-  3.1.2 Abrir no navegador que preferir:  
+    3.1 Abrir no navegador que preferir:  
 
-    http://localhost:3000    
+      http://localhost:3000    
     
-  obs: Adicionar arquivo .env na raiz do projeto com a chave da api matbox ou descomentar a TyleLayer no arquivo OrphanagesMap.tsx  
+      obs: Adicionar arquivo .env na raiz do projeto com a chave da api matbox ou descomentar a TyleLayer no arquivo OrphanagesMap.tsx  
 
-  3.2 Mobile  
+    ### Mobile  
     ````
     $ expo start
     ````
 
-  3.3 Backend   
+    ### Backend   
     ```
     $ yarn dev
     ```
