@@ -17,7 +17,7 @@ O projeto está em desenvolvimento na Next Level Week 3
 
 ## :camera: Imagens
 
-- Web
+### WEb
 
 ![Screenshot_20201012-233731~2](https://user-images.githubusercontent.com/56769013/95809110-5d295a00-0ce4-11eb-83ce-9eb4c80729f4.png)
   
@@ -27,7 +27,7 @@ O projeto está em desenvolvimento na Next Level Week 3
   
 ![Screenshot_20201012-233802~2](https://user-images.githubusercontent.com/56769013/95809269-c5783b80-0ce4-11eb-91fd-851a2c37fe56.png)  
 
-- Mobile  
+### Mobile
 ![print8](https://user-images.githubusercontent.com/56769013/96171949-0a29ef80-0efc-11eb-9b09-6a552f03b761.png) ![print1](https://user-images.githubusercontent.com/56769013/96171920-0302e180-0efc-11eb-926f-71b34fd4322d.png)
 
 ![print2](https://user-images.githubusercontent.com/56769013/96171929-04cca500-0efc-11eb-880a-e7b3097c51f8.png)
